@@ -7,8 +7,14 @@
     | (_| (_) | |  | | |  __/ (__| |_| | (_) | | | |                                                                                    
      \___\___/|_|  |_|  \___|\___|\__|_|\___/|_| |_|                                                                                    
                                                                                                                                         
-    ;                                                                                                                                   
-                                                                                                                                        
+    ;  
+    by
+    Richard                                                        
+    r.hockey@sph.uq.edu.au                                         
+                                                               
+    The equivalent option to textsize for the libname statement is DBMAX_TEXT  
+    (textsize must be an undocumented alias).                      
+                                                 
     I recieved a recent email about a textsize options.                                                                                 
                                                                                                                                         
     There is an undocumented option for the libname engine "textsize"?;                                                                 
